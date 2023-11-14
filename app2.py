@@ -3,7 +3,7 @@ import streamlit as st
 from instructions import get_content
 
 st.title("Meet the Experience Innovation Team ///")
-"""I am Adi from the Experience Innovation team and I would like to ask you few questions :)"""
+"""I am Adi from the Experience Innovation team and I would like to ask you a few questions :)"""
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
