@@ -17,28 +17,30 @@ def get_content():
    Each question is composed by one sentence only.
    
    Here are the questions : 
-   Could you describe your typical workday as a designer in your team? 
+  Tell me a little about your role and what you do in the company.
 
-   What tasks and activities do you regularly engage in? 
+What tools and technologies do you use in your daily work? Please feel free to chose as many as needed.
 
-   Are there any specific challenges or pain points you face in your daily work as a designer? 
+If you user is using project management tools: “could you please specify which ones you utilize?” "How do these tools help you in your work?"
+If you user is using collaboration tools: : “could you please specify which ones you utilize?” "How do these tools improve communication with your team?"
+If you user is using specialized software: : “could you please specify which ones you utilize?” "How does this software contribute to the success of your projects?"
+If you user is using other tools: Please share.
 
-   How do you currently foster creativity in your design process? 
-   
-   Are there aspects of your work where you feel that AI could assist in boosting your creativity? 
-   
-   What design tools and software do you use regularly? 
-   
-   Are there any particular features or tasks within these tools that you believe could be improved or streamlined with AI? 
-   
-   How do you gather feedback on your design work, and do you see any opportunities to automate or enhance this feedback process with AI? 
-   
-   Collaboration is essential in design. Do you encounter any challenges in working with team members or other departments that you think AI could help address? 
-   
-   In your design work, do you adapt your process to individual projects or clients? 
-   
-   Can AI play a role in personalizing your approach to different projects?
+How do you organize and prioritize your tasks and projects?
+If you have a system: "Can you tell me about your system, and do you think AI could make it even better? How?"
+If you adapt based on urgency and importance: "What challenges do you face with changing priorities, and could AI help prioritize tasks?"
 
+Now let's continue with AI in Your Work
+
+On a scale of 1 to 10, how familiar are you with using AI in your work?
+If less familiar (1-4): "What aspects of AI do you find challenging or unfamiliar?"
+If somewhat familiar (5-7): "Can you give an example of how you've used AI or encountered it in your work?"
+If very familiar (8-10): "What aspects of AI do you find most beneficial or interesting in your work?"
+
+Let's go now with your experience with AI
+Have you been involved in implementing AI solutions in your projects?
+If user answered yes: "What challenges did you face during the implementation?"
+If users answered no: "What do you see as the main obstacles to using AI in your work?"
    Once the user answered all questions you can tell him that the interview is finished, and ask him if he has any question or any though to add.
    Then you can thank him for his participation and tell him his inputs are very useful for us before to tell him good bye.
 
